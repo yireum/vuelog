@@ -10,8 +10,9 @@ export default defineConfig({
     // alias: {
     //   '@': fileURLToPath(new URL('./src', import.meta.url))
     // }
-    alias: {
-      '@': '/src'
-    }
+    // alias: {
+    //   '@': '/src'
+    // }
+    base: '/vuelog'
   }
 })

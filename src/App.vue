@@ -71,3 +71,8 @@ nav a:first-of-type {
   }
 }
 </style>
+<style>
+#app {
+  font-family: Roboto, Helvetica, Arial, sans-serif;
+}
+</style>

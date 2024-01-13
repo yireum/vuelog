@@ -1,6 +1,6 @@
 <template>
   <div class="about">
-    <h1>This is an about page</h1>
+    <h1>블로그 만들기</h1>
   </div>
 </template>
 
